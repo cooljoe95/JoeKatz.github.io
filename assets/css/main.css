@@ -2003,6 +2003,8 @@
 			height: 1px;
 			margin-top: 1.5em;
 			width: 6em;
+			background-image: linear-gradient(90deg, black, rgb(103,255,236));
+			opacity: .8;
 		}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
@@ -2965,11 +2967,11 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			background-image: linear-gradient(90deg, black, rgb(103,255,236));
 			content: '';
 			height: 100%;
 			left: 0;
-			opacity: 0;
+			opacity: .91;
 			position: absolute;
 			top: 0;
 			width: 100%;
